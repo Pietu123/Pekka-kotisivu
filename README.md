@@ -1,5 +1,5 @@
 # Pekkas-pages
 Musicians homepage
 
-Technologies
+Technologies:
 HTML, CSS, PHP
